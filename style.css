@@ -5,11 +5,12 @@ body{
 h1{
     color:darkgray;
     font-size: 40px;
-    font-weight: bolder;
+    font-family: 'Signika', sans-serif;
+   
     
 }
 .top-banner{
-   
+   margin-bottom: 79px;
 }
 span{
     color: tomato;
@@ -17,6 +18,7 @@ span{
 .h1c{
     color: orangered;
     font-size: 50px;
+    
 }
 .top{
     margin-top: 100px;
@@ -35,8 +37,32 @@ span{
 .half-width{
     width: 50%;
     padding-left: 160px;
-    padding-right: 90px;
+    padding-right: 75px;
 }
 .half-width img{
     width: 100%;
 }
+
+.mid-banner{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 110px;
+    
+}
+h2{
+    color: rgb(85, 88, 88);
+    font-size: 23px;
+    text-align: center;
+    font-weight: 700;
+}
+.mid-p{
+    color: rgb(104, 101, 101);
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+#first-id{
+    font-size: 44px;
+    font-weight: 900;
+}
+
