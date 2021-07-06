@@ -89,7 +89,7 @@ h2{
     height: 32%;
     margin: 5%;
     padding: 15px;
-    box-shadow: 15px 15px 15px gray;
+    box-shadow: 15px 15px  gray;
     border-radius: 7px;
  
 }
@@ -97,16 +97,6 @@ h2{
 .tri-width img{
     width: 80%;
     margin: 0;
-    
-}
-.tri-star{
-    text-align: center;
-    width: 25%;
-    height: 32%;
-    margin: 5%;
-    padding: 15px;
-    box-shadow: 15px 15px 15px gray;
-    border-radius: 7px;
     
 }
     
