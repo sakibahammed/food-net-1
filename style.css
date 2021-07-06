@@ -125,3 +125,28 @@ h2{
     font-size: 16px;
     font-weight: 800;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    margin: 180px;
+    padding: 70px;
+    
+}
+.ftr{
+    color: goldenrod;
+}
+.ftr-1{
+    color: orange;
+}
+.ftr-2{
+    color: mistyrose;
+}
+.h3{
+    font-size: 23px;
+    font-weight: 700;
+}
+.footer-p{
+    color: mistyrose;
+    font-size: 18px;
+    
+}
